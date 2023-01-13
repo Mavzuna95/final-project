@@ -1,0 +1,17 @@
+import React from 'react'
+import './sidebar.css'
+export default function SideBar() {
+  return (
+    <div className='sidebar'>
+        <div className="sidebar-header">
+
+        </div>
+        <div className="sidebar-search">
+
+        </div>
+        <div className="sidebar-chats">
+            
+        </div>
+    </div>
+  )
+}
